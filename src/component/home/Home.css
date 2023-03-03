@@ -1,0 +1,9 @@
+.home{
+    min-height: 100vh;
+    border:1px solid black;
+}
+
+#home img{
+    clip-path: polygon(25% 0%, 90% 0, 89% 100%, 25% 100%, 0% 50%)
+}
+
